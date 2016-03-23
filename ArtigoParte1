@@ -1,0 +1,46 @@
+Nome do jogo(ainda não tem nome)
+
+Nome1:				Nome2:
+Nome3:				Nome4:
+
+Centro Tecnológico Federal – Minas Gerais, Dept. Computação e construção civil, Brasil. 
+
+Resumo:
+Neste artigo será exposto a historia de um jogo digital, seus mecanismos, sua interface, sua jogabilidade, suas animações (sprites), como será implementado e o que será utilizado para sua implementação.
+Palavras-chave:
+
+Contato dos autores:
+Emais:
+
+Introdução:
+Este jogo de ação trata sobre uma garota que perdeu a memoria e está em busca da mesma, enfrentando vario desafios no caminho, mesmo sem saber se vai conseguir recupera-la. Este é um jogo plataforma que é baseado em contato, como por exemplo, shinobi, do SEGA GENESIS. Serão utilizadas as ferramentas HTML5, Javascript,CSS3 e Cavas para criar o jogo. Este jogo busca todos os tipos de publico, apesar de certa violência, não recomendado para menores de 10 anos, ainda sim procuramos todos os tipos de publico.
+
+Narrativa:
+Ao acordar em um laboratório e sem possuir qualquer memoria, Emily não sabe o que esta acontecendo, levanta-se e encontra uma espada, e de repente o laboratório explode, e ela encontra-se em uma floresta e é atacada por ninjas.
+Em uma floresta Emily esta lutando contra ninjas e a medida que os vai derrotando ela se aproxima de uma caverna onde encontra um inimigo que diz que sabe quem ela é e que só responderia quem ela é se ela o derrota-se. Após derrotar o inimigo, ela adquire uma “habilidade” que faz com que por alguns segundos sua espada torne-se flamejante, e ele morre sem dizer o que sabia sobre ela, então ela sai da caverna. ADICINAR IMG
+Ao sair da caverna Emily se encontra em um porto ao por do sol, quando é novamente atacada por inimigos, e ao chegar ao fim do porto ela encontra um novo inimigo que a chama de Emily, como se a conhecesse. Ele diz que ela foi parte de um experimento que deu errado e por isso ela foi desativada, mas de alguma forma se despertou e que agora era função dele como supervisor do projeto encerrar isso. Ao vencer, ela ao observar um de seus movimentos Emily conseguiu copia-lo perfeitamente, gatoutsu, e então ele diz para ela seguir pelos fiordes, onde lá ela talvez encontre algumas respostas que ela ainda não sabe que esta procurando. ADICINAR IMG
+Agora nos fiordes Emily é atacada por ninjas, mas não se surpreende mais. Ao chegar ao topo das montanhas ela encontra mais um inimigo, desta vez um médico, O medico que foi responsável pelo projeto “Bebop Phantom” que apagou todas as suas memorias e a desativou. Emily decide então a de qualquer forma possível obter respostas do médico. Após derrota-lo ele diz que seu nome é Emily, mas não sabe seu sobrenome, nascida em 4 de julho de 1990 em São Francisco, CA. E antes que ele pudesse revelar qualquer outra informação sobre ela, ele é executado por outro inimigo, mas este parece diferente do resto, esse parece mais sombrio, menos humano, e então a ela é dito que ele foi o primeiro do projeto “Bebop Phantom”, o ÚNICO que deu certo, Viktor. Após a luta Emily é jogada para fora da montanha e cai no rio. ADICINAR IMG
+Ao acordar em uma baia perto do rio, Emily encontra-se ferida, e é atacada por uma equipe de busca. Enquanto luta por sua vida, a mesma ela sente esvaindo-se, ate que o ultimo é derrotado. Nesse momento ela decide descansar para recuperar suas energias. Descansada ela decide ir atrás de seus inimigos que estão em “...”. Ela decide então pegar um avião em um hangar próximo a sua localização. No hangar ela é novamente atacada por um inimigo que destrói todos os aviões. Ao derrota-lo e sem saber o que faser, ela escuta outro avião chegando ao hangar. E então decide pedir para que o piloto a leve para seu destino FINAL. ADICINAR IMG
+Ao chegar ao laboratório Emily é atacada por diversos inimigos, mas isso não a impede de perseguir seus inimigos ate o topo da torre. Ela então encontra em um dos andares outro medico que trabalhou no projeto “Bebop Phantom”, e este revela a ela as informações que ela tanto desejava, e então pergunta a ela se ela irá enfrentar Viktor ou irá embora e deixará que ela domine o mundo. ADICINAR IMG
+Se ela decide deixar o prédio, Viktor domina o mundo enquanto ela encontra seus pais e depois de alguns meses todos morrem. ADICINAR IMG
+Se ela decide enfrentar Viktor, ela dirige-se ate o ultimo andar onde ocorre um dialogo com Viktor e ela percebe que os dois não podem coexistir no mundo. Então eles se enfrentam ela ganha, mas com um grande custo, o custo de sua vida. Mais tarde ela acorda em uma câmara onde ela percebe que seus ferimentos fatais estão sendo cicatrizados. Ao sair da câmara ela vê o medico que salvou sua vida e escuta ele dizer que isso tudo precisa acabar, e só há uma maneira de isso acontecer: então ele se mata.
+Emily então retorna a casa de seus pais. ADICINAR IMG.
+
+Personagens:
+Emily: Olhos verdes, loira, possui aproximadamente 1,70m e 60 kg, indiferente a tudo a sua volta, emoções inicialmente removidas devido ao projeto, todas as informações sobre ela foram apagadas e somente algumas pessoas que estavam no projeto sabem quem ela realmente é.
+Viktor: Olhos azuis, caucasiano, cabelos negros, possui aproximadamente 1,89m e 90 kg, megalomaníaco, insano e completamente embriagado por poder após ter sido um sucesso o experimento, matou o líder do projeto e assumiu em seu lugar. Após incontáveis fracassos decidiu fechar o projeto apagando Emily e destruindo o lugar.
+Doutor: Olhos castanhos, caucasiano, cabelos negros, possui aproximadamente 1,75m e 70 kg, inescrupuloso e irritadiço, faz o que for necessário pelo projeto dar certo.
+Supervisor: Olhos castanhos, caucasiano, cabelos negros, possui aproximadamente 1,80m e 80 kg, possui treinamento militar e acesso a equipamento militar, atua sobre seu próprio código de honra, foi quem levou Emily para o projeto “Bebop Phantom”.
+
+Jogabilidade:
+Neste jogo será necessário matar os inimigos para conseguir ir avançando, a medida em que se vai passando as fases, os inimigos se tornam mais inteligentes. Ela perde ao acabar sua energia vital ou cair em abismos. Ao derrotar os chefes das fases, a personagem principal adquire novas habilidade que serão necessárias dada a dificuldade dos inimigos e esses inimigos revelam a ela informações sobre ela mesma e sobre o jogo (cumprindo o papel do mensageiro, no caso implícito).
+
+Projeto de níveis:
+As fases serão organizadas em duas partes cada uma com os chefes na segunda parte de cada uma delas. Haverão espalhados pelas fases itens de cura para a personagem. Ao encontrar cada chefe será exibido um dialogo com o personagem explicando uma parte da historia em que ajuda o jogador a entender seus objetivos. A câmera será posicionada de lado para que seja possível visualizar a fase e os personagens ao mesmo tempo.
+
+Interface:
+Ao iniciar a fase a personagem será adicionada a tela  e ao terminar a fase a tela escurecerá. O menu inicial apresentará opções de iniciar o jogo, comandos do jogo e créditos.
+
+Conclusões:
+Não sei o que escrever. 
+
